@@ -6,12 +6,12 @@ To run the project you need some components.
 You find a list of them [here]().
 
 ## Folder structure
-⋅⋅* [pcb]()
-⋅⋅⋅ Here will you find informations about the circuit board.
+- [pcb]()
+  Here will you find informations about the circuit board.
 
-⋅⋅* [src]()
-⋅⋅⋅ In this folder is the sourcecode.
-⋅⋅⋅ You will also find some information how to use it.
+- [src]()
+  In this folder is the sourcecode.
+  You will also find some information how to use it.
 
 ## License
 The whole project is under the GPLv3.
