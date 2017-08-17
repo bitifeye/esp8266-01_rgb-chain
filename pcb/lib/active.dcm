@@ -1,0 +1,303 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASTX-H11-10.000MHz
+D HCMOS Output SMD TCXO
+$ENDCMP
+#
+$CMP BC547
+D Amplifier Transistor, NPN Silicon
+$ENDCMP
+#
+$CMP BC556
+D Amplifier Transistor, PNP Silicon
+$ENDCMP
+#
+$CMP BC847
+D 45 V, 100 mA NPN general-purpose transistor
+$ENDCMP
+#
+$CMP BC857
+D PNP general purpose transistor
+$ENDCMP
+#
+$CMP CB3LVxx010M000000
+D HCMOS Output SMD XO
+$ENDCMP
+#
+$CMP Diode
+D Diode
+K Diode
+$ENDCMP
+#
+$CMP Duo_LED_RG_CK
+D Duo LED, red and green, common cathode
+K LED
+$ENDCMP
+#
+$CMP EN5322QI
+D EN5322QI Enpirion Buck Converter 2A
+$ENDCMP
+#
+$CMP HMC1033
+D HMC1033 Frac-N PLL
+K HMC1033 PLL
+$ENDCMP
+#
+$CMP IFX25401TBV
+D IFX25401TBV Positive LDO Variable TO263
+K IFX25401 LDO
+$ENDCMP
+#
+$CMP IRLML2803
+D HEXFET Power MOSFET
+$ENDCMP
+#
+$CMP IRLML2803(Power)
+D HEXFET Power MOSFET; special symbol with power input and output
+$ENDCMP
+#
+$CMP KT2520*4000*****T**
+D KT2520*10000*****T30 TCXO 10MHz 3.3V
+K KT2520 TCXO
+$ENDCMP
+#
+$CMP LD1117AS33TR
+D LD1117AS33TR, 3.3V Vout, SOT-223, 1.2A Iout
+K LD1117AS33TR , lin. voltage regulators
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/a5/c3/3f/c9/2b/15/40/49/CD00002116.pdf/files/CD00002116.pdf/jcr:content/translations/en.CD00002116.pdf
+$ENDCMP
+#
+$CMP LED
+D LED
+K LED
+$ENDCMP
+#
+$CMP LM2991S
+D LM2991S Negative LDO Variable DDPAK
+K LM2991 LDO
+$ENDCMP
+#
+$CMP LT1004-2.5
+D LT1004 2.5V reference
+K LC1004 Reference
+$ENDCMP
+#
+$CMP LT1634-1.25
+D LT1634-1.25 Reference 1.25V
+K LT1634
+$ENDCMP
+#
+$CMP LT1964
+D LT1964 Negative LDO Variable DFN
+K LT1964 LDO
+$ENDCMP
+#
+$CMP LT3502_DFN
+D LT3502 Buck Converter, 500mA, DFN
+$ENDCMP
+#
+$CMP LT3503
+D LT3503 Buck Converter, 1A, DFN
+$ENDCMP
+#
+$CMP LXDC2HN
+D Micro DC-DC converter
+$ENDCMP
+#
+$CMP MC79M05*D
+D MC79M05*D Negative LDO 5V DPAK
+K MC79M05 LDO
+$ENDCMP
+#
+$CMP MCP1700T-1802E/MB
+D MCP1700T-1802E/MB Positive LDO 1.8V 250mA SOT-89
+$ENDCMP
+#
+$CMP MCP1700T-1802E/TT
+D MCP1700T-1802E/TT Positive LDO 1.8V 250mA DFN
+$ENDCMP
+#
+$CMP MCP1700T-2502E/TT
+D MCP1700T-2502E/TT Positive LDO 2.5V 250mA DFN
+$ENDCMP
+#
+$CMP MCP1700T-3302E/MB
+D MCP1700T-3302E/MB Positive LDO 3.3V 250mA SOT-89
+$ENDCMP
+#
+$CMP MCP1725*-3302EMC
+D MCP1725*-3302EMC Positive LDO 3.3V DFN
+K MCP1725 LDO
+$ENDCMP
+#
+$CMP MCP1726*-5002EM
+D MCP1725*-5002EMC Positive LDO 5.0V DFN
+$ENDCMP
+#
+$CMP MCP1726*-ADJ2EM
+D MCP1725*-ADJ2EMC Positive LDO adjustable DFN
+$ENDCMP
+#
+$CMP MMBT2222
+D NPN Surface Mount Si-Epi-Planar Switching Transistor
+$ENDCMP
+#
+$CMP MMBTA63
+D MMBTA63 PNP darlington, 800mA, 30V
+$ENDCMP
+#
+$CMP NCP5500DT50RK
+D NCP5500DT50RK Positive LDO 5.0V DPAK-5
+$ENDCMP
+#
+$CMP NCP698SQ35T1G
+D NCP698SQ35T1G Positive LDO 3.5V
+$ENDCMP
+#
+$CMP No-Diode
+D Diode (not mounted)
+$ENDCMP
+#
+$CMP No-LED
+D Unmounted LED
+K LED
+$ENDCMP
+#
+$CMP No-LT1634-1.25
+D LT1634-1.25 Reference 1.25V
+K LT1634
+$ENDCMP
+#
+$CMP No-PGB2
+D PGB2 Protection Diode (not populated)
+K Protection Diode
+$ENDCMP
+#
+$CMP No-R-735.0x
+D 3A 5.0V DC-DC buck converter, Recom (not populated)
+$ENDCMP
+#
+$CMP No-R-78B1.8-1.0
+D 1A 1.8V DC-DC buck converter, Recom (not populated)
+$ENDCMP
+#
+$CMP No-R-78B3.3-1.5
+D 1.5A 3.3.0V DC-DC buck converter, Recom (not populated)
+$ENDCMP
+#
+$CMP No-SIP10-12S
+D 10 Amp POL Converter (not mounted)
+K DC-DC
+$ENDCMP
+#
+$CMP No-SMT10-12S
+D 10 Amp POL Converter (not mounted)
+K DC-DC
+$ENDCMP
+#
+$CMP No-Schottky
+D Schottky Diode (not mounted)
+$ENDCMP
+#
+$CMP OKI-78SR
+D Fixed Output 1.5 Amp SIP DC/DC Converter
+$ENDCMP
+#
+$CMP PCA9633DP1
+D 4-bit Fm+ I2C-bus LED driver
+K PCA9633DP1
+F http://www.nxp.com/documents/data_sheet/PCA9633.pdf
+$ENDCMP
+#
+$CMP PGB2
+D PGB2 Protection Diode
+K Protection Diode
+$ENDCMP
+#
+$CMP R-735.0x
+D 3A 5.0V DC-DC buck converter, Recom
+$ENDCMP
+#
+$CMP R-745.0x
+D 4A 5.0V DC-DC buck converter, Recom
+$ENDCMP
+#
+$CMP R-78B1.5-1.0
+D 1A 1.5V DC-DC buck converter, Recom
+$ENDCMP
+#
+$CMP R-78B1.8-1.0
+D 1A 1.8V DC-DC buck converter, Recom
+$ENDCMP
+#
+$CMP R-78B3.3-1.5
+D 1.5A 3.3.0V DC-DC buck converter, Recom
+$ENDCMP
+#
+$CMP SI2301CDS
+D P-Channel 20 V (D-S) MOSFET
+$ENDCMP
+#
+$CMP SI2301CDS(Power)
+D P-Channel 20 V (D-S) MOSFET, with power in/out pins
+$ENDCMP
+#
+$CMP SI3433CD
+D P-Channel 20-V (D-S) MOSFET
+$ENDCMP
+#
+$CMP SIP10-12S
+D 10 Amp POL Converter
+K DC-DC
+$ENDCMP
+#
+$CMP SMT10-12S
+D 10 Amp POL Converter
+K DC-DC
+$ENDCMP
+#
+$CMP SRV05-4
+D TVS Diode Array, SOT-23
+K Diode
+$ENDCMP
+#
+$CMP Schottky
+D Schottky Diode
+K Schottky Diode
+$ENDCMP
+#
+$CMP Si2312BDS
+D 20V Vds, 5.0A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+$ENDCMP
+#
+$CMP TLV1117-50CDRJR
+D TLV1117-50CDRJR Positive LDO 5V QFN
+K TLV1117 LDO
+$ENDCMP
+#
+$CMP TS5A3157
+D 10Ohm SPDT Analog Switch
+$ENDCMP
+#
+$CMP ULN2803
+D ULN2803 Octal Darlinton array
+$ENDCMP
+#
+$CMP WPMDH1200601
+D WPMDH1200601 (171020601) buck converter, 2A, 6-42V to 0.8-6V, Würth
+$ENDCMP
+#
+$CMP WPMDH1302401
+D WPMDH1302401 (171032401) buck converter, 3A, 6-42V to 5-24V, Würth
+$ENDCMP
+#
+$CMP WPMDM1500602
+D WPMDM1500602 (171050601) buck converter, 5A, 6-36V to 0.8-6V, Würth
+$ENDCMP
+#
+$CMP Zener
+D Zener Diode
+$ENDCMP
+#
+#End Doc Library

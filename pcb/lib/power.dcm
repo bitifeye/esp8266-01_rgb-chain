@@ -1,0 +1,156 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V0
+D Generic +12.0V
+K Power
+$ENDCMP
+#
+$CMP +12VMain
+D Main Power Supply +12V
+K Power
+$ENDCMP
+#
+$CMP +1V0D
+D +1.0V Digital
+K Power
+$ENDCMP
+#
+$CMP +1V2A
+D +1.2V Analog
+K Power
+$ENDCMP
+#
+$CMP +1V2D
+D +1.2V Digital
+K Power
+$ENDCMP
+#
+$CMP +1V8
+D Generic +1.8V
+K Power
+$ENDCMP
+#
+$CMP +1V8D
+D +1.8V Digital
+K Power
+$ENDCMP
+#
+$CMP +1V8IO
+D +1.8V I/O
+K Power
+$ENDCMP
+#
+$CMP +2V5A
+D +2.5V Analog
+K Power
+$ENDCMP
+#
+$CMP +2V5D
+D +2.5V Digital
+K Power
+$ENDCMP
+#
+$CMP +3V3
+D Generic +3.3V
+K Power
+$ENDCMP
+#
+$CMP +3V3A
+D +3.3V Analog
+K Power
+$ENDCMP
+#
+$CMP +3V3A1
+D +3.3V Analog (rail 1)
+$ENDCMP
+#
+$CMP +3V3A2
+D +3.3V Analog (rail 2)
+$ENDCMP
+#
+$CMP +3V3D
+D +3.3V Digital
+K Power
+$ENDCMP
+#
+$CMP +3V3_1
+D Generic +3.3V (rail 1)
+K Power
+$ENDCMP
+#
+$CMP +3V3_2
+D Generic +3.3V (rail 2)
+K Power
+$ENDCMP
+#
+$CMP +5V0
+D Generic +5.0V
+K Power
+$ENDCMP
+#
+$CMP +5V0A
+D +5.0V Analog
+K Power
+$ENDCMP
+#
+$CMP +5V0B
+D Generic +5.0V
+K Power
+$ENDCMP
+#
+$CMP +5V0D
+D +5.0V Digital
+K Power
+$ENDCMP
+#
+$CMP +5V5A
+D +5.5V Analog
+K Power
+$ENDCMP
+#
+$CMP +5VMain
+D Main Power Supply +5V
+K Power
+$ENDCMP
+#
+$CMP -12V0
+D Generic -12.0V
+K Power
+$ENDCMP
+#
+$CMP -12VMain
+D Main Power Supply -12V
+K Power
+$ENDCMP
+#
+$CMP -5V0
+D Generic -5.0V
+K Power
+$ENDCMP
+#
+$CMP -5V0A
+D -5.0V Analog
+K Power
+$ENDCMP
+#
+$CMP -5VMain
+D Main Power Supply -5V
+K Power
+$ENDCMP
+#
+$CMP AGND
+D Analog GND
+K GND
+$ENDCMP
+#
+$CMP DGND
+D Digital GND
+K GND
+$ENDCMP
+#
+$CMP GND
+D Generic GND
+K GND
+$ENDCMP
+#
+#End Doc Library
