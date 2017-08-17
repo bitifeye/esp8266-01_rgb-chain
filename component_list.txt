@@ -1,0 +1,33 @@
+This is a list with all the components you need for the whole Projekt.
+Here are also a possible link listed where you can buy these components. You don't have to use these providers.
+You also need soldering station and solder.
+
+
+Components for the PCB:
+	- Resistor:
+		- 1x 0ohm (1206) https://www.conrad.biz/de/dickschicht-widerstand-0-smd-1206-025-w-5-royalohm-1206s4j0000t5e-1-st-1460195.html
+		- 3x 100ohm (1206) https://www.conrad.biz/de/dickschicht-widerstand-100-smd-1206-025-w-5-200-ppmc-royalohm-1206s4j0101t5e-1-st-1460223.html
+	
+	- Capacitor:
+		- 2x 100nF (0805) https://www.conrad.biz/de/keramik-kondensator-0805-100000-pf-25-v-10-l-x-b-x-h-08-x-2-x-125-mm-wuerth-elektronik-wcap-csgp-885012207072-1-st-1279037.html
+		- 1x 10uF (0805) https://www.conrad.biz/de/keramik-kondensator-1206-10-f-25-v-10-l-x-b-x-h-16-x-32-x-16-mm-wuerth-elektronik-wcap-csgp-885012208069-1-st-1278979.html
+		
+	- MOSFET:
+		- 3x SI2312BDS https://www.conrad.biz/de/mosfet-vishay-si2312bds-t1-ge3-1-n-kanal-750-mw-sot-23-3-597303.html
+		
+	- PMIC-LED-Treiber:
+		- 1x PCA9633DP1 https://www.conrad.biz/de/pmic-led-treiber-nxp-semiconductors-pca9633dp1118-stromschalter-tssop-8-oberflaechenmontage-1116591.html?customer-switch
+		
+	- Voltage regulator:
+		- 1x LD1117AS33TR https://www.conrad.de/de/spannungsregler-linear-stmicroelectronics-ld1117as33tr-sot-223-positiv-fest-1-a-1184681.html
+	
+	- Connectors:
+		- 1x NEB 21 R https://www.conrad.de/de/niedervolt-steckverbinder-buchse-einbau-horizontal-6-mm-195-mm-lumberg-neb-21-r-1-st-738882.html
+		- 1x Receptacle(2x4) https://www.conrad.biz/de/buchsenleiste-standard-anzahl-reihen-2-polzahl-je-reihe-4-econ-connect-bc8g-1-st-1311353.html
+		- 1x Pin Header (2x3) https://www.conrad.biz/de/stiftleiste-standard-anzahl-reihen-2-polzahl-je-reihe-3-connfly-1390118-1-st-1390118.html
+		
+Other Components:
+	- 1x ESP-01 https://www.ebay.de/i/191768591033?chn=ps&dispItem=1
+	- 1x TTL-232R http://www.mouser.de/ProductDetail/FTDI/TTL-232R-3V3/?qs=Xb8IjHhkxj627GFcejHp0Q==
+	- 1x RGB-LED-Chain(12VDC) https://www.amazon.de/COSANSYS-Wasserdicht-Lichtleisten-Farbwechsel-Fernbedienung/dp/B06XWCSP53/ref=pd_lpo_vtph_201_tr_t_2?_encoding=UTF8&psc=1&refRID=QK2D3612NR4MWTCTQE4S
+	
