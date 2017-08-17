@@ -1,6 +1,6 @@
 ## Here you get a description what you need to do to get the circuit board.
 
-###Steps:
+### Steps:
 1.	Install "KiCad". It can be downladed here: http://kicad-pcb.org/
 2.	Open KiCad and open the kicad-project. You find it in the folder "PCB" and it ends on ".pro".
 3.	If you want you can change now somthing in the schematic or in the laylout.
