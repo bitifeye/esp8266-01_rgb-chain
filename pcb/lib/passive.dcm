@@ -1,0 +1,154 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Capacitor
+K C Capacitor
+$ENDCMP
+#
+$CMP CE
+D Electrolytic Capacitor
+K C Capacitor Electrolytic Elko
+$ENDCMP
+#
+$CMP C_small
+D Capacitor (small symbol)
+K C Capacitor
+$ENDCMP
+#
+$CMP F
+D Fuse
+K F Fuse
+$ENDCMP
+#
+$CMP L
+D Inductor
+K L Inductor Coil
+$ENDCMP
+#
+$CMP L(Power)
+D Inductor (power in/out)
+$ENDCMP
+#
+$CMP LC(Power)
+D Inductor with Core (power in/out)
+$ENDCMP
+#
+$CMP LC1
+D Inductor with Core
+K L Inductor Coil
+$ENDCMP
+#
+$CMP LC2
+D Inductor with Core
+K L Inductor Coil
+$ENDCMP
+#
+$CMP LC_small
+D Inductor with Core (small symbol)
+$ENDCMP
+#
+$CMP L_small
+D Inductor (small symbol)
+$ENDCMP
+#
+$CMP MEA1608L50
+D 3-terminal Filter, SMD Array, LC-Type, 50MHz cutoff
+$ENDCMP
+#
+$CMP MEA1608LC150
+D 3-terminal Filter, SMD Array, LC-Type, 240MHz cutoff
+$ENDCMP
+#
+$CMP MEA2010L50
+D 3-terminal Filter, SMD Array, LC-Type, 50MHz cutoff
+$ENDCMP
+#
+$CMP MEA2010LC150
+D 3-terminal Filter, SMD Array, LC-Type, 240MHz cutoff
+$ENDCMP
+#
+$CMP No-C
+D Unmounted Capacitor
+$ENDCMP
+#
+$CMP No-CE
+D Electrolytic Capacitor, not mounted
+K C Capacitor Electrolytic Elko
+$ENDCMP
+#
+$CMP No-C_small
+D Unmounted Capacitor (small symbol)
+$ENDCMP
+#
+$CMP No-L
+D Unmounted Inductor
+$ENDCMP
+#
+$CMP No-MEA1608L50
+D 3-terminal Filter, SMD Array, LC-Type, 50MHz cutoff, not populated
+$ENDCMP
+#
+$CMP No-MEA1608LC150
+D 3-terminal Filter, SMD Array, LC-Type, 240MHz cutoff, not populated
+$ENDCMP
+#
+$CMP No-MEA2010L50
+D 3-terminal Filter, SMD Array, LC-Type, 50MHz cutoff, not populated
+$ENDCMP
+#
+$CMP No-MEA2010LC150
+D 3-terminal Filter, SMD Array, LC-Type, 240MHz cutoff, not populated
+$ENDCMP
+#
+$CMP No-R
+D Unmounted Resistor
+K R Resistor
+$ENDCMP
+#
+$CMP No-R(Power)
+D Resistor (power in/out), not populated
+$ENDCMP
+#
+$CMP No-R_small
+D Unmounted Resistor (small symbol)
+K R Resistor
+$ENDCMP
+#
+$CMP Push_Button
+K WS-TSW 434121025816, Tasater
+F http://www.produktinfo.conrad.com/datenblaetter/700000-724999/711753-da-01-en-TASTER_434121025816.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R Resistor Resistance
+$ENDCMP
+#
+$CMP R(Power)
+D Resistor (power in/out)
+$ENDCMP
+#
+$CMP RTrim
+D Trimmer resistor
+K R Pot Potentiometer Poti Trim
+$ENDCMP
+#
+$CMP R_small
+D Resistor (small symbol)
+K R Resistor
+$ENDCMP
+#
+$CMP XO2
+D XO/TCXO/OXCO Crystal Oscillator in 2-pin case
+$ENDCMP
+#
+$CMP XO4
+D XTAL Crystal Oscillator in 4-pin case
+K XTAL
+$ENDCMP
+#
+$CMP XTAL
+D Crystal
+$ENDCMP
+#
+#End Doc Library

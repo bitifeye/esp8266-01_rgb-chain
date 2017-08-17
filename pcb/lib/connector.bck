@@ -1,0 +1,197 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1x2-Pin_Hedaer
+D 1x2-Pin Header (Jumper)
+$ENDCMP
+#
+$CMP 1x3-Pin_Hedaer
+D 1x3-Pin Header
+$ENDCMP
+#
+$CMP 1x4-Pin_Hedaer
+D 1x4-Pin Header
+$ENDCMP
+#
+$CMP 1x5-Pin_Hedaer
+D 1x5-Pin Header
+$ENDCMP
+#
+$CMP 1x6-Pin_Header
+D 1x6-Pin Header
+$ENDCMP
+#
+$CMP 1x6-Pin_Hedaer
+D 1x6-Pin Header
+$ENDCMP
+#
+$CMP 243-11310-15_Clock_Backplane
+D ept hm 2.0 straight male connector for clock module (mounted on backplane)
+$ENDCMP
+#
+$CMP 243-11310-15_Frontend_Backplane
+D ept hm 2.0 straight male connector for frontend modules (mounted on backplane)
+$ENDCMP
+#
+$CMP 244-11300-15_Clock
+D ept hm 2.0 angled female connector for clock module (mounted on clock module)
+$ENDCMP
+#
+$CMP 244-11300-15_Fpga1
+D ept hm 2.0 angled female connector for FPGA module, 1 of 2 (mounted on FPGA module)
+$ENDCMP
+#
+$CMP 244-11300-15_Fpga2
+D ept hm 2.0 angled female connector for FPGA module, 2 of 2 (mounted on FPGA module)
+$ENDCMP
+#
+$CMP 244-11300-15_Frontend
+D ept hm 2.0 angled female connector for frontend modules (mounted on frontend module)
+$ENDCMP
+#
+$CMP 2x13-Pin_Hedaer
+D 2x13-Pin Header
+$ENDCMP
+#
+$CMP 2x4-Pin_Hedaer
+D 2x4-Pin Header
+$ENDCMP
+#
+$CMP 2x5-Pin_Hedaer
+D 2x5-Pin Header
+$ENDCMP
+#
+$CMP 2x8-Pin_Hedaer
+D 2x8-Pin Header
+$ENDCMP
+#
+$CMP Aardvark_Header
+D 2x5-Pin Header for Total Phase Aardvark
+$ENDCMP
+#
+$CMP Altera_JTAG_Connector
+D 10-pin Header for Altera JTAG
+$ENDCMP
+#
+$CMP BNC-f
+D BNC Connector, Solder-On, Female
+$ENDCMP
+#
+$CMP Diode
+D Diode
+K Diode
+$ENDCMP
+#
+$CMP Dual_USB_A_Jack
+D USB 2-port connector, type-A (to host), solder-on, female, shielded
+$ENDCMP
+#
+$CMP Dual_USB_B_Jack
+D USB 2-port connector, type-B (to device), solder-on, female, shielded
+$ENDCMP
+#
+$CMP EncoderConnector
+D Connector for a rotary encodder with push-button
+$ENDCMP
+#
+$CMP GLC65AG
+D Main DC Connector from GLC65AG
+$ENDCMP
+#
+$CMP HD44780Connector
+D Connector for an HD44780 display
+$ENDCMP
+#
+$CMP Jumper
+D Jumper, 2 pins
+$ENDCMP
+#
+$CMP Jumper(Power)
+D Jumper, 2 pins (for power in/out)
+$ENDCMP
+#
+$CMP Jumper3
+D Jumper, 3 pins
+$ENDCMP
+#
+$CMP Jumper3(Power)
+D Jumper, 3 pins (middle pin is PWR out, others are PWR in)
+$ENDCMP
+#
+$CMP MagJack
+D MagJack with transformers (supporting auto-MDIX) and two LEDs
+K RJ45 MagJack Ethernet
+$ENDCMP
+#
+$CMP MainPowerIn
+D Power connector, two voltages
+$ENDCMP
+#
+$CMP MainPowerInDual
+D Connctor for one PMT-12V100W and one PMT-12V50W (to get +/-12V)
+$ENDCMP
+#
+$CMP Male_Connector_for_Clock
+D Backplane connector for clock module (male, mounted on module)
+$ENDCMP
+#
+$CMP Male_Connector_for_Frontends
+D Backplane connector for frontend modules (male, mounted on module)
+$ENDCMP
+#
+$CMP N1810UL_Connector
+D 2x5-Pin Header for Keysight N1810UL relays
+$ENDCMP
+#
+$CMP No-1x5-Pin_Hedaer
+D 1x5-Pin Header, not populated
+$ENDCMP
+#
+$CMP No-2x5-Pin_Hedaer
+D 2x5-Pin Header, not mounted
+$ENDCMP
+#
+$CMP No-Aardvark_Header
+D 2x5-Pin Header for Total Phase Aardvark (not populated)
+$ENDCMP
+#
+$CMP No-Jumper
+D Jumper, 2 pins, not mounted
+$ENDCMP
+#
+$CMP No-SMP-m
+D SMA, solder mount, male (not populated)
+$ENDCMP
+#
+$CMP Probing_Point
+D Probing Point
+$ENDCMP
+#
+$CMP Raspberry_PI_SODIMM_Socket
+D SODIMM Socket for Raspberry PI Compute Module
+$ENDCMP
+#
+$CMP ResetButtonConnector
+D Connector for a reset button
+$ENDCMP
+#
+$CMP SMA-f
+D SMA, solder mount, female
+$ENDCMP
+#
+$CMP SMP-m
+D SMA, solder mount, male
+$ENDCMP
+#
+$CMP TeleRel_Connector
+D 2x5-Pin Header for Telemeter TeleRel relays
+$ENDCMP
+#
+$CMP USB_B_Jack
+D USB 1-port connector, type-B (to device), solder-on, female, unshielded
+$ENDCMP
+#
+$CMP phyBoardWegaExpansionConnector
+D Backplane connector for frontend modules (female, mounted on backplane)
+$ENDCMP
+#
+#End Doc Library
