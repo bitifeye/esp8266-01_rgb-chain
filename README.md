@@ -6,6 +6,9 @@ To run the project you need some components.
 You find a list of them [here]().
 
 ## Folder structure
+- [components](https://github.com/bitifeye/esp8266-01_rgb-chain/blob/master/component_list.txt)
+  Here will you find a list of all components you need.
+
 - [pcb]()
   Here will you find informations about the circuit board.
 
