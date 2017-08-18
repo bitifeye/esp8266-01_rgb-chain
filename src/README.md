@@ -8,6 +8,19 @@ First of all download the project and especially the **src** folder.
 	Have a look on this pictures 
 		![Alt-Text](https://github.com/bitifeye/esp8266-01_rgb-chain/blob/master/pictures/presettings_1.png) 
 		![Alt-Text](https://github.com/bitifeye/esp8266-01_rgb-chain/blob/master/pictures/presettings_2.png)
+	
+	Put the following link in the "Additional Board Manager URLs field"
+	
+		- http://arduino.esp8266.com/stable/package_esp8266com_index.json
+	If this link don't work use
+	
+		- http://arduino.esp8266.com/staging/package_esp8266com_index.json
+	
+	Restart your Arduino IDE.
+	
+	Install the *esp8266* plattform in the board manager as shown on the following pictures
+		![Alt-Text](https://github.com/bitifeye/esp8266-01_rgb-chain/blob/master/pictures/boardmanager_1.png) 
+		![Alt-Text](https://github.com/bitifeye/esp8266-01_rgb-chain/blob/master/pictures/boardmanager_2.png)
 		
 	or you can follow this [link](http://esp8266.github.io/Arduino/versions/2.0.0/doc/installing.html#boards-manager)
 3.	Install the [SPIFFS](http://www.instructables.com/id/Using-ESP8266-SPIFFS/) by following this manual until Step 3
