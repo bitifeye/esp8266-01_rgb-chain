@@ -10,7 +10,7 @@
 	
 	Check what kind of files (gerber-files or the pcb-files) your provider need. KiCad can also generate the gerber-files.
 	If you make your order make sure that the circuit  board only has a depth of 1,0mm. Otherwise it will not fit in the control box.
-5.	While your PCB is in processing you can order the components for the board. For that have a look in the component_list.txt.
+5.	While your PCB is in processing you can order the components for the board. For that have a look in the [component_list.txt](https://github.com/bitifeye/esp8266-01_rgb-chain/blob/master/component_list.txt).
 6.	If you have your board and the components you can solder everything on its position.
 	For the connection to the RGB-LED-Chain you can use the old cabels. Unsolder the cabels from the old circuit 
 7.	If you connect the cabels to the RGB-LED-Chain make sure you connect the right one to the appropriate hole.
