@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html> 
+	<head> <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" /> 
+		<title>color options</title> 
+	</head> 
+	<body> 
+		<center>
+			<br>
+			<b>please enter your value for each color</b><br>
+			you can enter the direct value or use the sliders below<br><br>
+			
+			
+			<form id="colorForm" onSubmit="return saveRGBValues();" action="color_options.html">
+				<label>red:		<input type="range" name="red" id="red" min="0" max="255" step="1" oninput="updateValue(this.value, 'red_now')" onchange="mySubmit()">							<input id="red_now" type="number" min="0" max="255" oninput="updateValue(this.value, 'red');" style="width: 4em;" onchange="mySubmit()"></label><br>
+				<label>green:	<input type="range" name="green" id="green" min="0" max="255" step="1" oninput="updateValue(this.value, 'green_now')" onchange="mySubmit()"> 					<input id="green_now" type="number" min="0" max="255" oninput="updateValue(this.value, 'green');" style="width: 4em;" onchange="mySubmit()"></label><br>
+				<label>blue:	<input type="range" name="blue" id="blue" min="0" max="255" step="1" oninput="updateValue(this.value, 'blue_now')" onchange="mySubmit()"> 						<input id="blue_now" type="number" min="0" max="255" oninput="updateValue(this.value, 'blue');" style="width: 4em;" onchange="mySubmit()"></label><br><br>
+			</form>
+			<form action="get_ip_address.html">
+				<input type="submit" value="Get the IP-Address">
+			</form>
+			<br>
+			<form action="config.html">
+				<input type="submit" value="WiFi-connection">
+			</form>
+		</center>
+	
+		<script>
+		
+			document.getElementById("red_now").value = localStorage.getItem("RedValue");
+			document.getElementById("red").value = localStorage.getItem("RedValue");
+			document.getElementById("green_now").value = localStorage.getItem("GreenValue");
+			document.getElementById("green").value = localStorage.getItem("GreenValue");
+			document.getElementById("blue_now").value = localStorage.getItem("BlueValue");
+			document.getElementById("blue").value = localStorage.getItem("BlueValue");
+					
+			function updateValue(newValue, controlName) 
+			{
+				document.getElementById(controlName).value=newValue;
+			}
+			function mySubmit()
+			{
+				var red = document.getElementById("red").value;
+				var green = document.getElementById("green").value;
+				var blue = document.getElementById("blue").value;
+				localStorage.setItem("RedValue", red);
+				localStorage.setItem("GreenValue", green);
+				localStorage.setItem("BlueValue", blue);
+				
+				document.getElementById("colorForm").submit();
+			}
+			
+		</script>
+	</body> 
+</html>
